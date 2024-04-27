@@ -1,0 +1,22 @@
+
+body {
+    background-color: white;
+  }
+  h1 {
+    color: blue;
+  }
+  p {
+    color: black;
+  }
+  li {
+    
+    float: right;
+    display: inline;
+    padding: 10px;
+    margin-right: 10px;
+    
+    
+
+
+  }
+  
